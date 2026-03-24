@@ -1,0 +1,36 @@
+{
+  "commit": "876a12a1988c1789799a1d6919abdce38a62a0ff",
+  "files": {
+    "repolex": {
+      "path": "aggregate/repolex/876a12a1988c1789799a1d6919abdce38a62a0ff.nq.gz",
+      "size_bytes": 382148
+    },
+    "dep": {
+      "path": "dep/876a12a1988c1789799a1d6919abdce38a62a0ff.nq.gz",
+      "size_bytes": 566
+    }
+  },
+  "dependencies": [
+    {
+      "packageName": "blinker",
+      "packageVersion": "1.9.0",
+      "githubOrg": "pallets-eco",
+      "githubRepo": "blinker",
+      "githubCommit": "669f3a027828d19786e708b511277fabcd6b9532"
+    },
+    {
+      "packageName": "pytest",
+      "packageVersion": "9.0.2",
+      "githubOrg": "pytest-dev",
+      "githubRepo": "pytest",
+      "githubCommit": "3d10b5148e03eb82b3ee29181dbdc73cf82699e2"
+    },
+    {
+      "packageName": "pallets-sphinx-themes",
+      "packageVersion": "2.5.0",
+      "githubOrg": "pallets",
+      "githubRepo": "pallets-sphinx-themes",
+      "githubCommit": "ae90e2c6496ef95d7487e981b8496d024f322939"
+    }
+  ]
+}
