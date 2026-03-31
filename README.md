@@ -40,18 +40,21 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 │   ├── ast
 │   │   ├── 11b46cf60db28c0dede87a93d62a2578c4cdca7d.nq.gz
 │   │   ├── 28e19c7e743fb9427afad8f258f844cfdeeb3851.nq.gz
+│   │   ├── 2a6e30897bc3461788d5ed86b6a809c8a7143cb1.nq.gz
 │   │   ├── 2adbe03d2243ba7bf07fad09728bc1f179999ae2.nq.gz
 │   │   ├── 3e534565a811c5e8d8ea01f5c5f7e5c1de4fcfde.nq.gz
 │   │   └── 876a12a1988c1789799a1d6919abdce38a62a0ff.nq.gz
 │   ├── lsp
 │   │   ├── 11b46cf60db28c0dede87a93d62a2578c4cdca7d.nq.gz
 │   │   ├── 28e19c7e743fb9427afad8f258f844cfdeeb3851.nq.gz
+│   │   ├── 2a6e30897bc3461788d5ed86b6a809c8a7143cb1.nq.gz
 │   │   ├── 2adbe03d2243ba7bf07fad09728bc1f179999ae2.nq.gz
 │   │   ├── 3e534565a811c5e8d8ea01f5c5f7e5c1de4fcfde.nq.gz
 │   │   └── 876a12a1988c1789799a1d6919abdce38a62a0ff.nq.gz
 │   └── repolex
 │       ├── 11b46cf60db28c0dede87a93d62a2578c4cdca7d.nq.gz
 │       ├── 28e19c7e743fb9427afad8f258f844cfdeeb3851.nq.gz
+│       ├── 2a6e30897bc3461788d5ed86b6a809c8a7143cb1.nq.gz
 │       ├── 2adbe03d2243ba7bf07fad09728bc1f179999ae2.nq.gz
 │       ├── 3e534565a811c5e8d8ea01f5c5f7e5c1de4fcfde.nq.gz
 │       └── 876a12a1988c1789799a1d6919abdce38a62a0ff.nq.gz
@@ -192,6 +195,7 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 ├── dep
 │   ├── 11b46cf60db28c0dede87a93d62a2578c4cdca7d.nq.gz
 │   ├── 28e19c7e743fb9427afad8f258f844cfdeeb3851.nq.gz
+│   ├── 2a6e30897bc3461788d5ed86b6a809c8a7143cb1.nq.gz
 │   ├── 2adbe03d2243ba7bf07fad09728bc1f179999ae2.nq.gz
 │   ├── 3e534565a811c5e8d8ea01f5c5f7e5c1de4fcfde.nq.gz
 │   └── 876a12a1988c1789799a1d6919abdce38a62a0ff.nq.gz
@@ -209,7 +213,7 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 └── tag
     └── tag.nq.gz
 
-13 directories, 160 files
+13 directories, 164 files
 ```
 
 | Directory | What it contains |
@@ -229,4 +233,4 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 [pallets-eco/blinker](https://github.com/pallets-eco/blinker)
 
 ---
-*Parsed on 2026-03-24 by [repolex](https://repolex.ai)*
+*Parsed on 2026-03-31 by [repolex](https://repolex.ai)*
